@@ -27,7 +27,10 @@ async function register() {
 
 
 
-    return (<div className="d-lg-flex half">
+    return (
+
+        
+    <div className="d-lg-flex half">
         <div className="bg order-1 order-md-2" style={{ backgroundImage: "url('img/pc.jpg')" }}></div>
 
         <div className="contents order-2 order-md-1">
